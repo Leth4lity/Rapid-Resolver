@@ -1,5 +1,5 @@
-# Repair-Request
-<b>Repair-Request</b> is a service portal that allows tenants to request maintenance services and provide feedback anytime, day or night.
+# Tenant Portal
+<b>Tenant Portal</b> is a service portal that allows tenants to request maintenance services and provide feedback anytime, day or night.
 
 
 This tool aims to streamline the process, providing an efficient, user-friendly interface for tenants and a manageable system for our maintenance team. By centralizing all repair requests in one place, we can:
