@@ -1,5 +1,7 @@
-# Tenant Portal
-<b>Tenant Portal</b> is a service portal that allows tenants to request maintenance services and provide feedback anytime, day or night.
+# Rapid Resolver
+<b>Rapid Resolver</b> is designed to increase resident/tenant satisfaction by providing an easy and effective way to manage maintenance work orders any time of the day or night! 
+
+<h2><p>**Failure to address maintenance issues promptly may result in negative reviews from tenants.</p> <p>When repairs are left unattended despite being covered by the security deposit, residents are left feeling neglected and frustrated.</p> <p>Act swiftly to uphold your end of the rental agreement and maintain positive tenant relations.**</p></h2>
 
 
 This tool aims to streamline the process, providing an efficient, user-friendly interface for tenants and a manageable system for our maintenance team. By centralizing all repair requests in one place, we can:
